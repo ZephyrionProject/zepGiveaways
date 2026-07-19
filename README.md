@@ -9,7 +9,7 @@ Sunucunuzdaki klasik ve sıkıcı çekiliş eklentilerinden sıkıldınız mı? 
 
 ## 🚀 Öne Çıkan Özellikler
 
-- **Eldeki Eşyayı Anında Ödül Yapın**: Oyuncularınıza özel bir kılıç veya 64x Elmas mı dağıtmak istiyorsunuz? Eşyayı elinize alın ve komutu girin. Eklenti, elinizdeki eşyanın tüm büyülerini, isimlerini ve lore (açıklama) özelliklerini kopyalayarak çekiliş ödülü olarak belirler.
+- **Eldeki Eşyayı Anında Ödül Yapın**: Oyuncularınıza özel bir kılıç veya 64x Elmas mı dağıtmak istiyorsunuz? Eşyayı elinize alın ve komutu girin. Eklenti, elinizdeki eşyanın tüm büyülerini, isimlerini ve lore özelliklerini kopyalayarak çekiliş ödülü olarak belirler.
 - **Sessiz & Spamsız Katılım Sistemi**: Oyuncular çekilişe katılmak için chat alanına sizin belirlediğiniz kelimeyi yazar. Sohbet tertemiz kalır; "Katıldınız!" mesajlarıyla spam oluşmaz.
 - **Sıfır Lag! (Asenkron Mimari)**: Katılım işlemleri tamamen Asenkron (AsyncChatEvent) olarak yönetilir. Eşzamanlı 1000 katılımcı bile TPS düşüşü yaratmaz.
 - **Hata Korumalı Teslimat**: Kazananın envanteri doluysa eşyayı asla yere düşürmez. Kazanan oyuncuya ve çekilişi başlatan yetkiliye anında özel bildirim gider.
