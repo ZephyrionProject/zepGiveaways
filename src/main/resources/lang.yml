@@ -1,0 +1,26 @@
+messages:
+  no-permission: "<white>ʙᴜ ᴋᴏᴍᴜᴛᴜ ᴋᴜʟʟᴀɴᴍᴀᴋ ɪᴄɪɴ ʏᴇᴛᴋɪɴɪᴢ ʙᴜʟᴜɴᴍᴀᴍᴀᴋᴛᴀᴅɪʀ."
+  usage-start: "<white>ʜᴀᴛᴀʟɪ ᴋᴜʟʟᴀɴɪᴍ. ʟᴜᴛғᴇɴ /cekilis başlat <kelime> <süre> sᴇᴋʟɪɴᴅᴇ ᴋᴜʟʟᴀɴɪɴ. (Örn: /cekilis baslat deneme 1m)"
+  usage-finish: "<white>ʜᴀᴛᴀʟɪ ᴋᴜʟʟᴀɴɪᴍ. ʟᴜᴛғᴇɴ sᴀᴅᴇᴄᴇ /cekilis bitir ʏᴀᴢɪɴ."
+  no-item-in-hand: "<white>ᴄᴇᴋɪʟɪs ʙᴀsʟᴀᴛᴍᴀᴋ ɪᴄɪɴ ᴇʟɪɴɪᴢᴅᴇ ʙɪʀ ᴇsʏᴀ ᴛᴜᴛᴍᴀʟɪsɪɴɪᴢ!"
+  no-active-giveaway: "<white>sᴜ ᴀɴᴅᴀ ᴅᴇᴠᴀᴍ ᴇᴅᴇɴ ʙɪʀ ᴄᴇᴋɪʟɪs ʙᴜʟᴜɴᴍᴜʏᴏʀ."
+  already-active: "<white>ʜᴀʟɪʜᴀᴢɪʀᴅᴀ ᴅᴇᴠᴀᴍ ᴇᴅᴇɴ ʙɪʀ ᴄᴇᴋɪʟɪs ᴠᴀʀ! ᴏɴᴄᴇ ᴏɴᴜ ʙɪᴛɪʀᴍᴇʟɪsɪɴɪᴢ."
+  started-successfully: "<white>ᴄᴇᴋɪʟɪs ʙᴀsᴀʀɪʏʟᴀ ʙᴀsʟᴀᴛɪʟᴅɪ! ᴋᴇʟɪᴍᴇ: <yellow>%keyword%</yellow> | sᴜʀᴇ: <yellow>%time%</yellow>"
+  finished-manually: "<white>ᴄᴇᴋɪʟɪs ʏᴏɴᴇᴛɪᴄɪ ᴛᴀʀᴀғɪɴᴅᴀɴ ᴍᴀɴᴜᴇʟ ᴏʟᴀʀᴀᴋ sᴏɴʟᴀɴᴅɪʀɪʟɪʏᴏʀ..."
+  not-enough-players: "<white>ʏᴇᴛᴇʀʟɪ ᴋᴀᴛɪʟɪᴍᴄɪ sᴀɢʟᴀɴᴀᴍᴀᴅɪɢɪ ɪᴄɪɴ ᴄᴇᴋɪʟɪs sᴏɴᴜᴄʟᴀɴᴅɪʀɪʟᴀᴍᴀᴅɪ."
+
+chat:
+  winner-announce-self: "\n<gradient:#a8ff78:#78ffd6>🎉 TEBRİKLER KAZANDINIZ! 🎉</gradient>\n<white>%count% <gray>kişinin katıldığı çekilişte ödülü siz kazandınız!\n "
+  winner-announce-others: "\n<gradient:#ff9a9e:#fecfef>🎉 ÇEKİLİŞ BİTTİ 🎉</gradient>\n<white>%count% <gray>kişinin katıldığı çekilişi <gold>%winner%</gold> adlı oyuncu kazandı!\n "
+  winner-inventory-full-self: "<red>Envanteriniz dolu olduğu için ödülü alamadınız. Lütfen yetkiliye bildiriniz!"
+  winner-inventory-full-admin: "<red>Kazanan oyuncunun (%winner%) envanteri dolu olduğu için ödül teslim edilemedi!"
+
+title:
+  start: "<gradient:#ff9a9e:#fecfef>%keyword% yazarak çekilişe katılabilirsiniz</gradient>"
+  subtitle-start: "<gray>Süre:</gray> <white>%time%</white> <dark_gray>|</dark_gray> <gray>Ödül:</gray> <white>%item_name%</white>"
+  countdown: "<yellow>%seconds%</yellow> <gray>saniye içinde sonuçlanıyor...</gray>"
+  subtitle-countdown: "<gray>Ödül:</gray> <white>%item_name%</white>"
+  winner: "<gradient:#a8ff78:#78ffd6>TEBRİKLER KAZANDINIZ!</gradient>"
+  subtitle-winner: "<yellow>Ödül envanterinize teslim edildi!</yellow>"
+  loser: "<red>ÇEKİLİŞ BİTTİ</red>"
+  subtitle-loser: "<white>%winner%</white> <gray>adlı oyuncu çekilişi kazandı</gray>"

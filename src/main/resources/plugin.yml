@@ -1,0 +1,17 @@
+name: zepGiveaways
+version: '${project.version}'
+main: com.zep.giveaways.ZepGiveaways
+api-version: '1.21'
+author: Redted
+description: Professional multi-feature GUI-based giveaway system.
+
+commands:
+  cekilis:
+    description: Cekilis Ana Komutu
+    permission: cekilis.admin
+    permission-message: "<red>Bu komutu kullanmak için yetkiniz bulunmamaktadır."
+
+permissions:
+  cekilis.admin:
+    description: Allows managing giveaways
+    default: op

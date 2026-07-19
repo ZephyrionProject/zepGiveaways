@@ -1,0 +1,28 @@
+# -------------------------------------------------------------------------
+# zepGiveaways Configuration File
+# -------------------------------------------------------------------------
+
+# Prefix displayed before the plugin messages in chat
+prefix: "<blue>ᴄᴇᴋɪʟɪs</blue> "
+
+# General Settings
+giveaway:
+  # Duration in minutes the giveaway will be active unless finished manually
+  cooldown-minutes: 1
+  # Minimum participants needed to choose a winner. If not met, giveaway cancels.
+  min-players: 1
+
+# Sound Settings
+sounds:
+  win: "UI_TOAST_CHALLENGE_COMPLETE"
+  lose: "ENTITY_VILLAGER_NO"
+  interact: "UI_BUTTON_CLICK"
+  ui-open: "BLOCK_ENDER_CHEST_OPEN"
+  countdown-tick: "BLOCK_NOTE_BLOCK_HAT"
+  start: "ENTITY_ENDER_DRAGON_GROWL"
+
+# Title Animation Settings (in ticks. 20 ticks = 1 second)
+title-timings:
+  fade-in: 10
+  stay: 60
+  fade-out: 20
