@@ -1,0 +1,2 @@
+# zepGiveaways
+Akıllı Çekiliş Eklentisi
